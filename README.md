@@ -42,3 +42,7 @@ Most frequent transaction type identified using count analysis
 Monthly financial trends show variation in cash flow
 Certain categories dominate overall expenses
 Approved transactions provide clearer financial performance view
+
+
+Iconic_Babs
+Web Designer | Data Science Learner | Aspiring AI & Machine Learning Professional
